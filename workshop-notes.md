@@ -14,7 +14,7 @@ Different users may need documentation in different formats. For example, videos
 At a high level, it's helpful to think about information architecture. For example, the Processing website provides a single [reference web page](https://processing.org/reference) that organizes features according to meaningful categories, with one-line descriptions of individual features; this serves as a kind of cheat sheet for users, who can click on individual features to zoom in and learn more details. The p5.js project is also working on a new website and a new structure for its documentation to make it even more accessible to users.
 
 ## Low level
-At a low-level, documentation of individual features can include various components, such as an overview of use cases, working examples, and function signatures with descriptions of parameters (including clearly specified default values).
+At a low level, documentation of individual features can include various components, such as an overview of use cases, working examples, and function signatures with descriptions of parameters (including clearly specified default values).
 
 # What do you need to write well?
 1. A style guide is helpful to ensure consistency and to make project values explicit (readability, translatability, etc.).
